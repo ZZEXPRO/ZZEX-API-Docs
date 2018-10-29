@@ -10,7 +10,7 @@
 
 [错误码提示](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E9%94%99%E8%AF%AF%E7%A0%81%E6%8F%90%E7%A4%BA)
 
-### 现以支持如下API
+### 现支持如下API
 > 更新时间 2018-10-27
 
   1.[获取单个订单交易明细](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E5%8D%95%E4%B8%AA%E8%AE%A2%E5%8D%95%E7%9A%84%E4%BA%A4%E6%98%93%E6%98%8E%E7%BB%86)
@@ -28,6 +28,7 @@
   7.[市场深度](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E4%BA%A4%E6%98%93%E5%AF%B9%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6)
 
   8.[获取系统支持的交易对](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E5%AF%B9)
+  
   9.[创建订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95)
 
   10.[取消订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95)
