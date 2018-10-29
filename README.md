@@ -13,22 +13,21 @@
 ### 现以支持如下API
 > 更新时间 2018-10-27
 
-  1.获得单个订单的交易明细
+  1.[获取单个订单交易明细](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E5%8D%95%E4%B8%AA%E8%AE%A2%E5%8D%95%E7%9A%84%E4%BA%A4%E6%98%93%E6%98%8E%E7%BB%86)
 
-  2.获得订单列表
+  2.[获取订单列表](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8)
 
-  3.获得已成交的记录
+  3.[成交记录](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E5%B7%B2%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
 
-  4.获得单个币的资产
+  4.[单个币资产][https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%BE%97%E5%8D%95%E4%B8%AA%E5%B8%81%E7%9A%84%E8%B5%84%E4%BA%A7)
 
-  5.获得所有行情汇总
+  5.[会员资产列表](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%BE%97%E4%BC%9A%E5%91%98%E8%B5%84%E4%BA%A7%E5%88%97%E8%A1%A8)
 
-  6.获得市场深度
+  6.[行情汇总](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E6%89%80%E6%9C%89%E8%A1%8C%E6%83%85%E6%B1%87%E6%80%BB)
 
-  7.获取k线数据
+  7.[市场深度](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E4%BA%A4%E6%98%93%E5%AF%B9%E5%B8%82%E5%9C%BA%E6%B7%B1%E5%BA%A6)
 
-  8.获得系统支持的交易对
+  8.[获取系统支持的交易对](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E5%AF%B9)
+  9.[创建订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95)
 
-  9.创建订单
-
-  10.取消订单
+  10.[取消订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95)
