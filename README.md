@@ -32,3 +32,6 @@
   9.[创建交易订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95)
 
   10.[取消交易订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95)
+  
+  11.[获取K线数据](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96K%E7%BA%BF%E6%95%B0%E6%8D%AE)
+
