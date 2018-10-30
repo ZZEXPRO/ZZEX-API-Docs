@@ -19,7 +19,7 @@
 
   3.[成交记录](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E5%B7%B2%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
 
-  4.[单个币资产](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%BE%97%E5%8D%95%E4%B8%AA%E5%B8%81%E7%9A%84%E8%B5%84%E4%BA%A7)
+  4.[获取单个币资产](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E5%8D%95%E4%B8%AA%E5%B8%81%E7%9A%84%E8%B5%84%E4%BA%A7)
 
   5.[会员资产列表](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%BE%97%E4%BC%9A%E5%91%98%E8%B5%84%E4%BA%A7%E5%88%97%E8%A1%A8)
 
