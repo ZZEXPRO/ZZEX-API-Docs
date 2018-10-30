@@ -29,7 +29,7 @@
 
   8.[获取系统支持的交易对](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E8%8E%B7%E5%8F%96%E7%B3%BB%E7%BB%9F%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E5%AF%B9)
   
-  9.[创建交易订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95)
+  9.[创建交易订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%88%9B%E5%BB%BA%E4%BA%A4%E6%98%93%E8%AE%A2%E5%8D%95)
 
   10.[取消交易订单](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E5%8F%96%E6%B6%88%E4%BA%A4%E6%98%93%E8%AE%A2%E5%8D%95)
   
