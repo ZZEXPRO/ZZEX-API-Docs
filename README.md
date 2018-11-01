@@ -10,6 +10,8 @@
 
 [错误码提示](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/%E9%94%99%E8%AF%AF%E7%A0%81%E6%8F%90%E7%A4%BA)
 
+常见问题[FAQ](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/API-FAQ)
+
 ### 现支持如下API
 > 更新时间 2018-10-27
 
