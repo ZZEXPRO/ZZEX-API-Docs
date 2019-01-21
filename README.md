@@ -1,5 +1,5 @@
 ### ZZEX 为用户提供稳定使用的接口，目前支持账户查询、交易查询、行情、订单等。可以使用程序代替人进行策略下单、交易
-用户apiKey和apiSecret请访问[ZZEX官网](http://www.zzex.pro/) **API管理**进行获取
+用户apiKey和apiSecret请访问[ZZEX官网](http://www.zzexvip.com/) **API管理**进行获取
 
 ### REST行情、交易 API
 [REST API描述](https://github.com/ZZEXPRO/ZZEX-API-Docs/wiki/API-%E6%8F%8F%E8%BF%B0)
